@@ -32,46 +32,23 @@
                     <i class="fa fa-angle-left pull-right"></i>
                 </a>
                 <ul class="treeview-menu">
-                    <li>
-                        <a href="index.html"><i class="fa fa-circle-o"></i> Dashboard v1</a>
-                    </li>
                     <li class="active">
-                        <a href="index2.html"><i class="fa fa-circle-o"></i> Dashboard v2</a>
-                    </li>
-                </ul>
-            </li>
-            <li class="active treeview">
-                <a href="#">
-                    <i class="fa fa-dashboard"></i> <span>Sản phẩm</span>
-                    <i class="fa fa-angle-left pull-right"></i>
-                </a>
-                <ul class="treeview-menu">
-                    <li>
-                        <a href="?page=products"><i class="fa fa-circle-o"></i> Quản lý sản phẩm</a>
-                    </li>
-                    <li class="">
-                        <a href="?page=add_product"><i class="fa fa-circle-o"></i> Thêm sản phẩm</a>
+                        <a href="index.php"><i class="fa fa-circle-o"></i> Dashboard v1</a>
                     </li>
                 </ul>
             </li>
             <li class="treeview">
                 <a href="#">
                     <i class="fa fa-files-o"></i>
-                    <span>Layout Options</span>
+                    <span>Sản Phẩm</span>
                     <span class="label label-primary pull-right">4</span>
                 </a>
                 <ul class="treeview-menu">
                     <li>
-                        <a href="pages/layout/top-nav.html"><i class="fa fa-circle-o"></i> Top Navigation</a>
+                        <a href="pages/layout/top-nav.html"><i class="fa fa-circle-o"></i> Danh Sach Sản Phẩm</a>
                     </li>
                     <li>
-                        <a href="pages/layout/boxed.html"><i class="fa fa-circle-o"></i> Boxed</a>
-                    </li>
-                    <li>
-                        <a href="pages/layout/fixed.html"><i class="fa fa-circle-o"></i> Fixed</a>
-                    </li>
-                    <li>
-                        <a href="pages/layout/collapsed-sidebar.html"><i class="fa fa-circle-o"></i> Collapsed Sidebar</a>
+                        <a href="pages/layout/boxed.html"><i class="fa fa-circle-o"></i> Thêm Sản Phẩm</a>
                     </li>
                 </ul>
             </li>
